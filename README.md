@@ -1,2 +1,2 @@
-# CloudFunction-HttpRequest
+# 微信小程序通过云函数获取openid并推到后台获取userinfo
 Danns8
